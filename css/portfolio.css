@@ -1,0 +1,45 @@
+body{
+    background-color: #061d3c;
+}
+
+#about-me{
+    display: inline-grid;
+    padding: 5vh;
+    font-size: 20px;
+    color: thistle;
+}
+
+#education{
+    display: inline-grid;
+    padding: 5vh;
+    font-size: 20px;
+    color: thistle;
+}
+
+#skills{
+    display: inline-grid;
+    padding: 5vh;
+    font-size: 20px;
+    color: thistle;
+}
+
+#achievements{
+    display: inline-grid;
+    padding: 5vh;
+    font-size: 20px;
+    color: thistle;
+}
+
+#contact-me{
+    display: inline-grid;
+    padding: 5vh;
+    font-size: 20px;
+    color: thistle;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    width: 30%;
+    border-radius: 50%;
+}
